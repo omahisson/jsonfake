@@ -1,13 +1,9 @@
 {
-    "postos": [
-        { "id": 1, "razao_social": "Piranga LTDA", "cnpj": "26579379000120", "nome_fantasia": "Piranguinha", "logradouro": "Rua Dos Bobos", "numero": 0, "complemento": "apt 2", "bairro":"Centro", "cidade":"Sao Paulo", "estado": "SP", "cep":"03985050", "telefone":"11988776655", "email":"contato@piranguinha.com", "turno_funcionamento":"SegMatutino-DomNoturno"},
-        { "id": 2, "razao_social": "Piranga LTDA", "cnpj": "26579379000120", "nome_fantasia": "Piranguinha", "logradouro": "Rua Dos Bobos", "numero": 0, "complemento": "apt 2", "bairro":"Centro", "cidade":"Sao Paulo", "estado": "SP", "cep":"03985050", "telefone":"11988776655", "email":"contato@piranguinha.com", "turno_funcionamento":"SegMatutino-DomNoturno"}
-    ],
     "administradores": [
         { "id": 1, "nome": "João Silva" },
         { "id": 2, "nome": "Maria Santos" },
-        { "id": 3, "nome": "Pedro Oliveira" }
-    ],
-    "bombas": [],
-    "regristroPreco": []
+        { "id": 3, "nome": "Pedro Oliveira" },
+        { "id": 4, "nome": "Ana Costa" },
+        { "id": 5, "nome": "Carlos Mendes" }
+    ]
 }
